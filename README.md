@@ -5,3 +5,5 @@ link wiki, pengerjaan HTTP dengan Socket: [https://github.com/ikbrath/Jaringan-K
 
 link wiki, pengerjaan HTTP dengan Docker: [https://github.com/ikbrath/Jaringan-Komputer.wiki.git](https://github.com/ikbrath/Jaringan-Komputer/wiki/DESKRIPSI-PENGERJAAN)
 
+link wiki, FINAL EXAM: https://github.com/ikbrath/Jaringan-Komputer/wiki/FINAL-EXAM
+
