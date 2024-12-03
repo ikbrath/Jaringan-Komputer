@@ -1,5 +1,5 @@
 # Jaringan-Komputer
-Dokumentasi pengerjaan tugas jaringan komputer S2 Teknik Informatika PENS
+Dokumentasi pengerjaan tugas jaringan komputer S2 Teknik Informatika PENS, Dokumentasi saya cantumkan dalam tab wiki di dalam repository ini, namun untuk mempermudah saya juga mencantumkan link yang menuju langsung ke dokumentasi.
 
 - Tugas 1, link wiki, pengerjaan HTTP dengan Socket: [https://github.com/ikbrath/Jaringan-Komputer/wiki/Protocol-HTTP.cap]
 - Tugas 2, link wiki, Pengerjaan Protocol Sockeet: [https://github.com/ikbrath/Jaringan-Komputer/wiki/Analisis-Protocol-Socket] 
