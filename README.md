@@ -1,4 +1,4 @@
-# Dokumentasi Pengerjaan Tugas Jaringan Komputer 📑
+# Dokumentasi Pengerjaan Tugas Jaringan Komputer 
 
 Selamat datang di dokumentasi pengerjaan tugas **Jaringan Komputer** untuk program S2 Teknik Informatika di PENS. Semua dokumentasi tugas telah saya cantumkan di tab **Wiki** dalam repository ini. Namun, untuk mempermudah, berikut saya sertakan link langsung menuju dokumentasi masing-masing tugas.
 
