@@ -28,6 +28,11 @@ Selamat datang di dokumentasi pengerjaan tugas **Jaringan Komputer** untuk progr
 - **Deskripsi**: Evaluasi keseluruhan materi dan konsep yang dipelajari selama perkuliahan.
 - **Link Wiki**: [Final Exam](https://github.com/ikbrath/Jaringan-Komputer/wiki/FINAL-EXAM)
 
+### 📌 **LINK VIDEO PENJELASAN**
+- **Deskripsi**: Penjelasan pertanyaan nomor 2 yang ada di final exam.
+- **Link Wiki**: [Video Penjelasan nomor 2 final exam](https://youtu.be/tV2BhWXHDhQ)
+
+
 ---
 
 Saya harap dokumentasi ini dapat memberikan gambaran yang jelas tentang pengerjaan tugas-tugas tersebut. Terima kasih telah mengunjungi dokumentasi ini! 🚀
